@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: marketing_automation_suite\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: settings_tab_help.php:8
+msgid ""
+"Check the field mappings to create forms that will send user details to Marketing Automation.\n"
+"         All required fields must be present in the form that you want to link with Marketing Automation."
+msgstr ""
+"Controlla le mappature dei campi per creare moduli che invieranno i dettagli dell'utente a Marketing Automation.\n"
+"         Tutti i campi obbligatori devono essere presenti nel modulo che desideri collegare a Marketing Automation."
+
+#: mas_Form_fields_mappings.php:210
+msgid "Primary user email address. This is also the unique ID for the user information inside MA."
+msgstr "Indirizzo email dell'utente principale. Questo è anche l'ID univoco per le informazioni dell'utente all'interno di MA."
+
+#: mas_Form_fields_mappings.php:223
+msgid "First name of the user."
+msgstr "Nome dell'utente."
+
+#: mas_Form_fields_mappings.php:236
+msgid "Last name of the user."
+msgstr "Cognome dell'utente."
+
+#: mas_Form_fields_mappings.php:250
+msgid "Tax code / fiscal code of the user."
+msgstr "Codice fiscale/codice fiscale dell'utente."
+
+#: mas_Form_fields_mappings.php:281
+msgid "Gender of the user."
+msgstr "Sesso dell'utente."
+
+#: mas_Form_fields_mappings.php:295
+msgid "Date of birth of the user."
+msgstr "Data di nascita dell'utente."
+
+#: form_fields_mappings.php:162
+msgid "Country of the user."
+msgstr "Paese dell'utente."
+
+#: mas_Form_fields_mappings.php:338
+msgid "City of the user."
+msgstr "Città dell'utente."
+
+#: mas_Form_fields_mappings.php:366
+msgid "Postal code of the user."
+msgstr "Codice postale dell'utente."
+
+#: form_fields_mappings.php:203
+msgid "State of the user."
+msgstr "Stato dell'utente."
+
+#: mas_Form_fields_mappings.php:424
+msgid "Address of the user."
+msgstr "Indirizzo dell'utente."
+
+#: mas_Form_fields_mappings.php:453
+msgid "Primary telephone number of the user."
+msgstr "Numero di telefono primario dell'utente."
+
+#: mas_Form_fields_mappings.php:482
+msgid "Primary mobile phone number of the user."
+msgstr "Numero di cellulare principale dell'utente."
+
+#: form_fields_mappings.php:259
+msgid "Consent for the GDPR marketing."
+msgstr "Consenso per il marketing GDPR."
+
+#: form_fields_mappings.php:273
+msgid "Consent for the GDPR profiling."
+msgstr "Consenso per la profilazione GDPR."
+
+#: form_fields_mappings.php:287
+msgid "Consent for the GDPR for third parties."
+msgstr "Consenso per il GDPR per i terzi."
+
+#: settings_tables.php:20
+msgid "Name"
+msgstr "Nome"
+
+#: settings_tables.php:21
+msgid "Description"
+msgstr "Descrizione"
+
+#: settings_tables.php:22
+msgid "Required"
+msgstr "Necessario"
+
+#: settings_tables.php:23
+msgid "Default Value"
+msgstr "Valore di default"
+
+#: settings_tables.php:24
+msgid "Mappings"
+msgstr "Mappature"
+
+#: settings_tables.php:41
+msgid "Allowed field names:"
+msgstr "Nomi dei campi consentiti:"
+
+#: settings_tables.php:43
+msgid "Field type:"
+msgstr "Tipo di campo:"
+
+#: settings_tables.php:67
+msgid "Time"
+msgstr "Tempo"
+
+#: settings_tables.php:68
+msgid "Event Status"
+msgstr "Stato dell'evento"
+
+#: settings_tables.php:69
+msgid "Event"
+msgstr "Evento"
+
+#: settings_tables.php:70
+msgid "Details"
+msgstr "Dettagli"
+
+#: settings_page_main.php:42 settings_tab_general.php:33
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: settings_tab_general.php:34
+msgid "Enable API Marketing Automation"
+msgstr "Abilita API Marketing Automation"
+
+#: settings_tab_general.php:35
+msgid "Personal Token"
+msgstr "Token Connessione"
+
+#: settings_tab_general.php:49
+msgid "Please fill in the general details provided from Marketing Automation settings panel"
+msgstr "Compila i dettagli generali forniti dal pannello delle impostazioni di Marketing Automation"
+
+#: settings_tab_general.php:107
+msgid "Connection with Marketing Automation Suite was successful."
+msgstr "La connessione con Marketing Automation Suite ha avuto successo."
+
+#: settings_tab_general.php:108
+msgid "Configuration saved."
+msgstr "Configurazione salvata."
+
+#: settings_tab_general.php:110
+msgid "Connection verified."
+msgstr "Connessione verificata."
+
+#: settings_tab_general.php:117
+msgid "Disconnected. Please check your configuration."
+msgstr "Disconnesso. Controlla la tua configurazione."
+
+#: settings_page_main.php:43
+msgid "Help"
+msgstr "Aiuto"
+
+#: settings_page_main.php:48
+msgid "Troubleshooting"
+msgstr "Log delle azioni"
+
+#: settings_page_main.php:90
+msgid "This plugin doesn't work on localhost URLs."
+msgstr "Questo plugin non funziona sugli URL localhost."
+
+#: mas_Wpforms_MA_mapping_fields.php:52 mas_Wpforms_MA_mapping_fields.php:91
+msgid "Marketing Automation"
+msgstr "Marketing Automation"
+
+#: mas_Wpforms_MA_mapping_fields.php:91
+msgid "Fields Mapping"
+msgstr "Mappatura dei campi"
+
+#: mas_Wpforms_MA_mapping_fields.php:111
+msgid "Email Address"
+msgstr "Indirizzo e-mail"
+
+#: mas_Wpforms_MA_mapping_fields.php:102 mas_Wpforms_MA_mapping_fields.php:114
+#: mas_Wpforms_MA_mapping_fields.php:148 mas_Wpforms_MA_mapping_fields.php:159
+#: mas_Wpforms_MA_mapping_fields.php:171 mas_Wpforms_MA_mapping_fields.php:184
+#: mas_Wpforms_MA_mapping_fields.php:196 mas_Wpforms_MA_mapping_fields.php:209
+#: mas_Wpforms_MA_mapping_fields.php:221 mas_Wpforms_MA_mapping_fields.php:234
+#: mas_Wpforms_MA_mapping_fields.php:247 mas_Wpforms_MA_mapping_fields.php:270
+#: mas_Wpforms_MA_mapping_fields.php:294 mas_Wpforms_MA_mapping_fields.php:428
+#: mas_Wpforms_MA_mapping_fields.php:440 mas_Wpforms_MA_mapping_fields.php:452
+#: mas_Wpforms_MA_mapping_fields.php:464 mas_Wpforms_MA_mapping_fields.php:475
+#: mas_Wpforms_MA_mapping_fields.php:572 mas_Wpforms_MA_mapping_fields.php:584
+#: mas_Wpforms_MA_mapping_fields.php:596 mas_Wpforms_MA_mapping_fields.php:608
+#: mas_Wpforms_MA_mapping_fields.php:624 mas_Wpforms_MA_mapping_fields.php:641
+#: mas_Wpforms_MA_mapping_fields.php:657 mas_Wpforms_MA_mapping_fields.php:668
+#: mas_Wpforms_MA_mapping_fields.php:680 mas_Wpforms_MA_mapping_fields.php:693
+#: mas_Wpforms_MA_mapping_fields.php:705 mas_Wpforms_MA_mapping_fields.php:717
+#: mas_Wpforms_MA_mapping_fields.php:728 mas_Wpforms_MA_mapping_fields.php:740
+#: mas_Wpforms_MA_mapping_fields.php:752 mas_Wpforms_MA_mapping_fields.php:764
+#: mas_Wpforms_MA_mapping_fields.php:775 mas_Wpforms_MA_mapping_fields.php:787
+#: mas_Wpforms_MA_mapping_fields.php:802
+msgid "-- Select Field --"
+msgstr "-- Seleziona campo --"
+
+#: wpforms_MA_mapping_fields.php:69
+msgid "Contact Code"
+msgstr "Codice di contatto"
+
+#: wpforms_MA_mapping_fields.php:80
+msgid "Email Address 2"
+msgstr "Indirizzo e-mail 2"
+
+#: mas_Wpforms_MA_mapping_fields.php:145
+msgid "First Name"
+msgstr "Nome di battesimo"
+
+#: mas_Wpforms_MA_mapping_fields.php:156
+msgid "Last Name"
+msgstr "Cognome"
+
+#: mas_Wpforms_MA_mapping_fields.php:168 mas_Wpforms_MA_mapping_fields.php:654
+msgid "Fiscal Code"
+msgstr "Codice fiscale"
+
+#: mas_Wpforms_MA_mapping_fields.php:267 mas_Wpforms_MA_mapping_fields.php:725
+msgid "Telephone 1"
+msgstr "Telefono 1"
+
+#: wpforms_MA_mapping_fields.php:150
+msgid "Telephone 2"
+msgstr "Telefono 2"
+
+#: wpforms_MA_mapping_fields.php:161
+msgid "Mobilephone 1"
+msgstr "Cellulare 1"
+
+#: wpforms_MA_mapping_fields.php:172
+msgid "Mobilephone 2"
+msgstr "Cellulare 2"
+
+#: wpforms_MA_mapping_fields.php:185
+msgid "Skype URL Profile"
+msgstr "Profilo URL Skype"
+
+#: wpforms_MA_mapping_fields.php:197
+msgid "Linkedin URL Profile"
+msgstr "Profilo URL di Linkedin"
+
+#: wpforms_MA_mapping_fields.php:208
+msgid "Facebook URL Profile"
+msgstr "Profilo URL di Facebook"
+
+#: wpforms_MA_mapping_fields.php:219
+msgid "Instagram URL Profile"
+msgstr "Profilo URL di Instagram"
+
+#: wpforms_MA_mapping_fields.php:231
+msgid "Twitter URL Profile"
+msgstr "Profilo URL di Twitter"
+
+#: mas_Wpforms_MA_mapping_fields.php:244 mas_Wpforms_MA_mapping_fields.php:714
+msgid "Address"
+msgstr "Indirizzo"
+
+#: mas_Wpforms_MA_mapping_fields.php:206 mas_Wpforms_MA_mapping_fields.php:677
+msgid "City"
+msgstr "Città"
+
+#: wpforms_MA_mapping_fields.php:266
+msgid "Zone"
+msgstr "Zona"
+
+#: mas_Wpforms_MA_mapping_fields.php:218 mas_Wpforms_MA_mapping_fields.php:690
+msgid "Postal Code"
+msgstr "Codice Postale"
+
+#: mas_Wpforms_MA_mapping_fields.php:231 mas_Wpforms_MA_mapping_fields.php:702
+msgid "Province/State"
+msgstr "Provincia/Stato"
+
+#: mas_Wpforms_MA_mapping_fields.php:193 mas_Wpforms_MA_mapping_fields.php:665
+msgid "Nation/Country"
+msgstr "Nazione/Paese"
+
+#: wpforms_MA_mapping_fields.php:312
+msgid "Note"
+msgstr "Nota"
+
+#: wpforms_MA_mapping_fields.php:324
+msgid "Website URL"
+msgstr "URL del sito"
+
+#: mas_Wpforms_MA_mapping_fields.php:461
+msgid "Vat Code"
+msgstr "Partita Iva"
+
+#: wpforms_MA_mapping_fields.php:358
+msgid "Preferred Language"
+msgstr "Lingua preferita"
+
+#: wpforms_MA_mapping_fields.php:371
+msgid "Title"
+msgstr "Titolo"
+
+#: mas_Wpforms_MA_mapping_fields.php:181
+msgid "Gender"
+msgstr "Genere"
+
+#: mas_Wpforms_MA_mapping_fields.php:472
+msgid "Birthday Date"
+msgstr "Data di nascita"
+
+#: mas_Wpforms_MA_mapping_fields.php:425
+msgid "Profession"
+msgstr "Professione"
+
+#: mas_Wpforms_MA_mapping_fields.php:449
+msgid "Birth Place"
+msgstr "Luogo di nascita"
+
+#: mas_Wpforms_MA_mapping_fields.php:569 mas_Wpforms_MA_mapping_fields.php:737
+msgid "GDPR Marketing"
+msgstr "Marketing GDPR"
+
+#: mas_Wpforms_MA_mapping_fields.php:581 mas_Wpforms_MA_mapping_fields.php:749
+msgid "GDPR Profiling"
+msgstr "Profilazione GDPR"
+
+#: mas_Wpforms_MA_mapping_fields.php:593 mas_Wpforms_MA_mapping_fields.php:761
+msgid "GDPR Thirdparties"
+msgstr "Terze parti GDPR"
+
+#: mas_Wpforms_MA_mapping_fields.php:605 mas_Wpforms_MA_mapping_fields.php:772
+msgid "GDPR Outside EU"
+msgstr "GDPR al di fuori dell'UE"
+
+#: wpforms_MA_mapping_fields.php:490
+msgid "GDPR Collection"
+msgstr "Raccolta GDPR"
+
+#: wpforms_MA_mapping_fields.php:501
+msgid "GDPR Other 1"
+msgstr "GDPR Altro 1"
+
+#: wpforms_MA_mapping_fields.php:512
+msgid "GDPR Other 2"
+msgstr "GDPR Altro 2"
+
+#: wpforms_MA_mapping_fields.php:523
+msgid "GDPR Other 3"
+msgstr "GDPR Altro 3"
+
+#: mas_Form_fields_mappings.php:97 mas_Form_fields_mappings.php:113
+msgid "Tag"
+msgstr "Etichetta"
+
+#: mas_Form_fields_mappings.php:130
+msgid "Tag1..Tag10"
+msgstr "Tag1..Tag10"
+
+#: mas_Form_fields_mappings.php:144
+msgid ".."
+msgstr ".."
+
+#: mas_Form_fields_mappings.php:164 mas_Form_fields_mappings.php:177
+msgid "MA Custom Variable "
+msgstr "Variabile personalizzata MA "
+
+#: mas_Form_fields_mappings.php:197
+msgid "Form name unique ID for the user information inside MA."
+msgstr "ID univoco del nome del modulo per le informazioni sull'utente all'interno di MA."
+
+#: mas_Form_fields_mappings.php:265
+msgid "Tax code / fiscal code of the company."
+msgstr "Codice fiscale/codice fiscale dell'azienda."
+
+#: mas_Form_fields_mappings.php:309
+msgid "Nation/Country of the user."
+msgstr "Nazione/Paese dell'utente."
+
+#: mas_Form_fields_mappings.php:323
+msgid "Nation/Country of the company."
+msgstr "Nazione/Paese dell'azienda."
+
+#: mas_Form_fields_mappings.php:352
+msgid "City of the company."
+msgstr "Città dell'azienda."
+
+#: mas_Form_fields_mappings.php:380
+msgid "Postal code of the Company."
+msgstr "Codice postale della Società."
+
+#: mas_Form_fields_mappings.php:395
+msgid "State/Province of the user."
+msgstr "Stato/Provincia dell'utente."
+
+#: mas_Form_fields_mappings.php:409
+msgid "State/Province of the Company."
+msgstr "Stato/Provincia della Società."
+
+#: mas_Form_fields_mappings.php:438
+msgid "Address of the company."
+msgstr "Indirizzo dell'azienda."
+
+#: mas_Form_fields_mappings.php:467
+msgid "Primary telephone number of the company."
+msgstr "Numero di telefono principale dell'azienda."
+
+#: mas_Form_fields_mappings.php:496
+msgid "Profession of the user."
+msgstr "Professione dell'utente."
+
+#: mas_Form_fields_mappings.php:510
+msgid "Vat Code of the company."
+msgstr "Partita IVA dell'azienda."
+
+#: mas_Form_fields_mappings.php:525
+msgid "VBirth Place of the user."
+msgstr "VLuogo di nascita dell'utente."
+
+#: mas_Form_fields_mappings.php:539
+msgid "Company Name."
+msgstr "Nome della ditta."
+
+#: mas_Form_fields_mappings.php:553
+msgid "Consent for the Person GDPR marketing."
+msgstr "Consenso per il marketing GDPR della Persona."
+
+#: mas_Form_fields_mappings.php:567
+msgid "Consent for the Company GDPR marketing."
+msgstr "Consenso per il marketing GDPR della Società."
+
+#: mas_Form_fields_mappings.php:582
+msgid "Consent for the Person GDPR profiling."
+msgstr "Consenso per la profilazione della Persona GDPR."
+
+#: mas_Form_fields_mappings.php:596
+msgid "Consent for the Company GDPR profiling."
+msgstr "Consenso per la profilazione GDPR della Società."
+
+#: mas_Form_fields_mappings.php:611
+msgid "Consent for the Person GDPR for third parties."
+msgstr "Consenso per la Persona GDPR per i terzi."
+
+#: mas_Form_fields_mappings.php:625
+msgid "Consent for the Company GDPR for third parties."
+msgstr "Consenso per la Società GDPR per soggetti terzi."
+
+#: mas_Form_fields_mappings.php:640
+msgid "Consent for the Person GDPR for outsideeu."
+msgstr "Consenso per la Persona GDPR per outsideeu."
+
+#: mas_Form_fields_mappings.php:654
+msgid "Consent for the Company GDPR for outsideeu."
+msgstr "Consenso per la Società GDPR per outsideeu."
+
+#: mas_Wpforms_MA_mapping_fields.php:99
+msgid "Form Name"
+msgstr "Nome del modulo"
+
+#: mas_Wpforms_MA_mapping_fields.php:291
+msgid "Mobile phone 1"
+msgstr "Telefono cellulare 1"
+
+#: mas_Wpforms_MA_mapping_fields.php:437
+msgid "Company Name"
+msgstr "Nome della ditta"
+
+#: mas_Wpforms_MA_mapping_fields.php:621
+msgid "Person Tag"
+msgstr "Etichetta persona"
+
+#: mas_Wpforms_MA_mapping_fields.php:638 mas_Wpforms_MA_mapping_fields.php:799
+msgid "Custom Variable "
+msgstr "Variabile personalizzata "
+
+#: mas_Wpforms_MA_mapping_fields.php:784
+msgid "Company Tag"
+msgstr "Etichetta aziendale"
+
+#: settings_page_main.php:44
+msgid "Mapping"
+msgstr "Mappatura"
+
+#: settings_page_main.php:46
+msgid "MA Form Mapping"
+msgstr "Sincronizza Form in MA"
+
+#: settings_tab_ma_directory_form.php:8
+msgid "Check if all your modules are correctly mapped to the MA suite"
+msgstr "Controlla se tutti i tuoi moduli sono mappati correttamente sulla suite MA"
+
+#: settings_tab_ma_directory_form.php:11
+msgid "If the Form is not synchronized with the MA suite, only the contact will be saved but it will not be possible to activate an automation on that compilation"
+msgstr "Se il Form non è sincronizzato con la suite MA verrà salvato solo il contatto ma non sarà possibile attivare un automatismo su quella compilazione"
+
+#: settings_tab_ma_directory_form.php:66
+msgid "Success Save Form on MA suite for form id "
+msgstr "Salvataggio riuscito del modulo sulla suite MA per l'ID modulo "
+
+#: settings_tab_ma_directory_form.php:70
+msgid "Error Save Form on MA suite for form id "
+msgstr "Errore nel salvataggio del modulo sulla suite MA per l'ID modulo "
+
+#: settings_tables.php:199
+msgid "Form ID"
+msgstr "ID Form"
+
+#: settings_tables.php:200
+msgid "Form Type"
+msgstr "Tipo di Form"
+
+#: settings_tables.php:201
+msgid "Form Title"
+msgstr "Titolo del Form"
+
+#: settings_tables.php:202
+msgid "Form Map Name"
+msgstr "Nome Mappatura Form"
+
+#: settings_tables.php:203
+msgid "Form Modified"
+msgstr "Form modificato"
+
+#: settings_tables.php:204
+msgid "Form Structure"
+msgstr "Struttura del Form"
+
+#: settings_tables.php:205
+msgid "Form Structure Synchronized"
+msgstr "Struttura del Form sincronizzata"
+
+#: settings_tables.php:206
+msgid "Last Form Synchronization Date"
+msgstr "Ultima sincronizzazione del Form"
+
+#: settings_tables.php:207
+msgid "Synchronized"
+msgstr "Sincronizzato"
+
+#: settings_tables.php:237
+msgid "There are multiple forms with the same mapping name"
+msgstr "Sono presenti più moduli con lo stesso nome di mappatura"
+
+#: settings_tables.php:248
+msgid "You have changed the mapping of a form already synchronized with "
+msgstr "Hai modificato la mappatura di un modulo già sincronizzato con "
+
+#: settings_tables.php:276
+msgid "Form Name already use"
+msgstr "Nome del Form già utilizzato"
+
+#: settings_tables.php:279
+msgid "Change Mapping Name"
+msgstr "Modifica nome Form"
+
+#: settings_tables.php:285
+msgid "Sync now"
+msgstr "Sincronizza ora"
+
+#: settings_tables.php:287
+msgid "Empty Map Name"
+msgstr "Nome mappatura vuoto"
+
+msgid "Disable Sync"
+msgstr "Disabilita Sincronizzazione"
+
+msgid "No Enabled API Plugin"
+msgstr "Chiamata API disabilitata"
